@@ -1,0 +1,58 @@
+#,Browser,Page,Field,isPresent,Value, Size, Location
+1,Safari,index.php,id_quotes,true,quotes();It's not what you look at that matters, it's what you see ,(1664x20),(8x48)
+2,Safari,index.php,id_f_title,true,Sign Up,(152x44),(434x87)
+3,Safari,index.php,id_current_location,true,San Jose, CA,(129x24),(1080x71)
+4,Safari,index.php,id_weather_icon,true,null,(51x51),(1058x95)
+5,Safari,index.php,id_temperature,true,88 ℉,(73x43),(1136x100)
+6,Safari,index.php,id_f_label_fn,true,First Name,(104x23),(434x154)
+7,Safari,index.php,id_fname,true,null,(387x42),(434x181)
+8,Safari,index.php,fname_error,true,null,null,null
+9,Safari,index.php,id_f_label_ln,true,Last Name,(103x23),(859x154)
+10,Safari,index.php,id_lname,true,null,(387x42),(859x181)
+11,Safari,index.php,lname_error,true,null,null,null
+12,Safari,index.php,id_f_label_ea,true,Email Address,(136x23),(434x234)
+13,Safari,index.php,id_email,true,null,(387x42),(434x261)
+14,Safari,index.php,email_error,true,null,null,null
+15,Safari,index.php,id_f_label_pn,true,Phone Number,(142x23),(859x234)
+16,Safari,index.php,id_phone,true,null,(387x42),(859x261)
+17,Safari,index.php,phone_error,true,null,null,null
+18,Safari,index.php,id_rb_label_g,true,Gender,(71x23),(436x312)
+19,Safari,index.php,id_gender_male,true,null,(20x21),(445x357)
+20,Safari,index.php,id_rb_label_m,true,Male,(44x23),(479x357)
+21,Safari,index.php,id_gender_female,true,null,(20x21),(625x357)
+22,Safari,index.php,id_rb_label_f,true,Female,(66x23),(659x357)
+23,Safari,index.php,id_f_label_s,true,State,(50x23),(859x319)
+24,Safari,index.php,id_state,true,null,(349x35),(859x346)
+25,Safari,index.php,id_terms,true,null,(20x20),(434x424)
+26,Safari,index.php,id_cb_label_t,true,I agree to the Terms,(232x30),(464x417)
+27,Safari,index.php,ErrorLine,true,null,null,null
+28,Safari,index.php,id_link_facebook,true,null,null,null
+29,Safari,index.php,id_img_facebook,true,null,(61x60),(434x482)
+30,Safari,index.php,id_link_twitter,true,null,null,null
+31,Safari,index.php,id_img_twitter,true,null,(61x60),(500x482)
+32,Safari,index.php,id_link_flickr,true,null,null,null
+33,Safari,index.php,id_img_flickr,true,null,(61x60),(565x482)
+34,Safari,index.php,id_link_youtube,true,null,null,null
+35,Safari,index.php,id_img_youtube,true,null,(61x60),(631x482)
+36,Safari,index.php,id_reset_button,true,null,(105x37),(871x497)
+37,Safari,index.php,id_submit_button,true,null,(119x37),(1126x497)
+38,Safari,index.php,timestamp,true,timestamp()May 27, 2020 ,(290x24),(415x555)
+39,Safari,index.php,copyright,true,copyright()© 2020 alex.academy,(250x24),(705x555)
+40,Safari,index.php,os_browser,true,os_browser()macOS Catalina 10.15 & Safari 13,(310x24),(955x555)
+41,Safari,confirmation.php,id_f_title,true,Confirmation,(249x44),(440x77)
+42,Safari,confirmation.php,id_f_label_fn,true,First Name,(103x23),(441x158)
+43,Safari,confirmation.php,id_fname,true,John,(67x42),(441x182)
+44,Safari,confirmation.php,id_f_label_ln,true,Last Name,(102x23),(866x158)
+45,Safari,confirmation.php,id_lname,true,Smith,(77x42),(866x182)
+46,Safari,confirmation.php,id_f_label_ea,true,Email Address,(136x23),(441x242)
+47,Safari,confirmation.php,id_email,true,john_smith@gmail.com,(281x42),(441x266)
+48,Safari,confirmation.php,id_f_label_pn,true,Phone Number,(142x23),(866x242)
+49,Safari,confirmation.php,id_phone,true,(415)555-1212,(181x42),(866x266)
+50,Safari,confirmation.php,id_rb_label_g,true,Gender,(71x23),(441x326)
+51,Safari,confirmation.php,id_gender,true,,(10x42),(441x350)
+52,Safari,confirmation.php,id_f_label_s,true,State,(50x23),(866x326)
+53,Safari,confirmation.php,id_state,true,,(10x42),(866x350)
+54,Safari,confirmation.php,id_cb_label_t,true,Terms?,(69x23),(441x410)
+55,Safari,confirmation.php,id_terms,true,,(10x42),(441x434)
+56,Safari,confirmation.php,id_back_button,true,null,(121x37),(866x500)
+57,Safari,confirmation.php,copyright,true,copyright()© 2020 alex.academy,(230x24),(725x558)

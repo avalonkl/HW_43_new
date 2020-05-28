@@ -1,0 +1,59 @@
+#,Browser,Page,Field,isPresent,Value
+1,HtmlUnit,index.php,id_quotes,true,quotes();Problems are not stop signs, they are guidelines 
+2,HtmlUnit,index.php,id_f_title,true,Sign Up
+3,HtmlUnit,index.php,id_current_location,true,
+                    	San Jose, CA
+4,HtmlUnit,index.php,id_weather_icon,true,null
+5,HtmlUnit,index.php,id_temperature,true,88 ℉
+6,HtmlUnit,index.php,id_f_label_fn,true,First Name
+7,HtmlUnit,index.php,id_fname,true,John
+8,HtmlUnit,index.php,fname_error,true,null
+9,HtmlUnit,index.php,id_f_label_ln,true,Last Name
+10,HtmlUnit,index.php,id_lname,true,Smith
+11,HtmlUnit,index.php,lname_error,true,null
+12,HtmlUnit,index.php,id_f_label_ea,true,Email Address
+13,HtmlUnit,index.php,id_email,true,john_smith@gmail.com
+14,HtmlUnit,index.php,email_error,true,null
+15,HtmlUnit,index.php,id_f_label_pn,true,Phone Number
+16,HtmlUnit,index.php,id_phone,true,(415)555-1212
+17,HtmlUnit,index.php,phone_error,true,null
+18,HtmlUnit,index.php,id_rb_label_g,true,Gender
+19,HtmlUnit,index.php,id_gender_male,true,null
+20,HtmlUnit,index.php,id_rb_label_m,true,Male
+21,HtmlUnit,index.php,id_gender_female,true,null
+22,HtmlUnit,index.php,id_rb_label_f,true,Female
+23,HtmlUnit,index.php,id_f_label_s,true,State
+24,HtmlUnit,index.php,id_state,true,null
+25,HtmlUnit,index.php,id_terms,true,null
+26,HtmlUnit,index.php,id_cb_label_t,true,I agree to the Terms
+27,HtmlUnit,index.php,ErrorLine,true,null
+28,HtmlUnit,index.php,id_link_facebook,true,null
+29,HtmlUnit,index.php,id_img_facebook,true,null
+30,HtmlUnit,index.php,id_link_twitter,true,null
+31,HtmlUnit,index.php,id_img_twitter,true,null
+32,HtmlUnit,index.php,id_link_flickr,true,null
+33,HtmlUnit,index.php,id_img_flickr,true,null
+34,HtmlUnit,index.php,id_link_youtube,true,null
+35,HtmlUnit,index.php,id_img_youtube,true,null
+36,HtmlUnit,index.php,id_reset_button,true,null
+37,HtmlUnit,index.php,id_submit_button,true,null
+38,HtmlUnit,index.php,timestamp,true,timestamp()May 27, 2020 
+39,HtmlUnit,index.php,copyright,true,copyright()© 2020 alex.academy
+40,HtmlUnit,index.php,os_browser,true,os_browser()Windows 7 & Chrome 81
+41,HtmlUnit,confirmation.php,id_f_title,true,Sign Up
+42,HtmlUnit,confirmation.php,id_f_label_fn,true,First Name
+43,HtmlUnit,confirmation.php,id_fname,true,John
+44,HtmlUnit,confirmation.php,id_f_label_ln,true,Last Name
+45,HtmlUnit,confirmation.php,id_lname,true,Smith
+46,HtmlUnit,confirmation.php,id_f_label_ea,true,Email Address
+47,HtmlUnit,confirmation.php,id_email,true,john_smith@gmail.com
+48,HtmlUnit,confirmation.php,id_f_label_pn,true,Phone Number
+49,HtmlUnit,confirmation.php,id_phone,true,(415)555-1212
+50,HtmlUnit,confirmation.php,id_rb_label_g,true,Gender
+51,HtmlUnit,confirmation.php,id_gender,false,null
+52,HtmlUnit,confirmation.php,id_f_label_s,true,State
+53,HtmlUnit,confirmation.php,id_state,true,null
+54,HtmlUnit,confirmation.php,id_cb_label_t,true,I agree to the Terms
+55,HtmlUnit,confirmation.php,id_terms,true,null
+56,HtmlUnit,confirmation.php,id_back_button,false,null
+57,HtmlUnit,confirmation.php,copyright,true,copyright()© 2020 alex.academy
